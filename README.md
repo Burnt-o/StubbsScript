@@ -16,5 +16,5 @@ c30
 c40  
 c50  
 
-levels still missing (unable to be processed by either extractor):   
+manually extraced with the help of Mo's Editing Kit Essentials - http://forum.halomaps.org/index.cfm?page=topic&topicID=50573
 a30  
