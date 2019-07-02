@@ -16,5 +16,5 @@ c30
 c40  
 c50  
 
-manually extraced with the help of Mo's Editing Kit Essentials - http://forum.halomaps.org/index.cfm?page=topic&topicID=50573
+manually extraced with the help of Mo's Editing Kit Essentials - http://forum.halomaps.org/index.cfm?page=topic&topicID=50573  
 a30  
